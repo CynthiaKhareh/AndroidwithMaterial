@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274498997115",
+    "firebase_url": "https://aic-ndarakwa-cdc-d8d7c.firebaseio.com",
+    "project_id": "aic-ndarakwa-cdc-d8d7c",
+    "storage_bucket": "aic-ndarakwa-cdc-d8d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274498997115:android:d9dc5f8655cc43684a8bde",
+        "android_client_info": {
+          "package_name": "com.example.aicndarakwacdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274498997115-6io4cg0rse8pfksulhj3icbr33d7c5ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-Dhk3RUepJpB9LTbUweVG-dsZTFydWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274498997115-6io4cg0rse8pfksulhj3icbr33d7c5ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

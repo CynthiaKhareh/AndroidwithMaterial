@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aicndarakwacdc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="AIC Ndarakwa CDC"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Student"></activity>
+        <activity android:name=".Teacher6Login" />
+        <activity android:name=".Teacher5Login" />
+        <activity android:name=".Teacher4Login" />
+        <activity android:name=".Teacher3Login" />
+        <activity android:name=".Teacher2Login" />
+        <activity android:name=".Teacher1Login" />
+        <activity android:name=".RetrieveSocio5" />
+        <activity android:name=".RetrieveSocio6" />
+        <activity android:name=".RetrieveSocio4" />
+        <activity android:name=".RetrieveSocio3" />
+        <activity android:name=".RetrieveSocio2" />
+        <activity android:name=".RetrieveSocio1" />
+        <activity android:name=".RetrievePhysical6" />
+        <activity android:name=".RetrievePhysical5" />
+        <activity android:name=".RetrievePhysical4" />
+        <activity android:name=".RetrievePhysical3" />
+        <activity android:name=".RetrievePhysical2" />
+        <activity android:name=".RetrievePhysical1" />
+        <activity android:name=".RetrieveCognitive6" />
+        <activity android:name=".RetrieveCognitive5" />
+        <activity android:name=".RetrieveCognitive4" />
+        <activity android:name=".RetrieveCognitive3" />
+        <activity android:name=".RetrieveCognitive2" />
+        <activity android:name=".RetrieveCognitive1" />
+        <activity android:name=".RetrieveSpiritual6" />
+        <activity android:name=".RetrieveSpiritual5" />
+        <activity android:name=".RetrieveSpiritual4" />
+        <activity android:name=".RetrieveSpiritual3" />
+        <activity android:name=".RetrieveSpiritual2" />
+        <activity android:name=".RetrieveSpiritual1" />
+        <activity android:name=".UploadCognitive6" />
+        <activity android:name=".UploadCognitive4" />
+        <activity android:name=".UploadCognitive5" />
+        <activity android:name=".UploadCognitive3" />
+        <activity android:name=".UploadCognitive1" />
+        <activity android:name=".UploadCognitive2" />
+        <activity android:name=".UploadSocio6" />
+        <activity android:name=".UploadSocio5" />
+        <activity android:name=".UploadSocio4" />
+        <activity android:name=".UploadSocio3" />
+        <activity android:name=".UploadSocio2" />
+        <activity android:name=".UploadSocio1" />
+        <activity android:name=".UploadSpiritual6" />
+        <activity android:name=".UploadSpiritual5" />
+        <activity android:name=".UploadSpiritual4" />
+        <activity android:name=".UploadSpiritual3" />
+        <activity android:name=".UploadSpiritual2" />
+        <activity android:name=".UploadSpiritual1" />
+        <activity android:name=".UploadPhysical6" />
+        <activity android:name=".UploadPhysical5" />
+        <activity android:name=".UploadPhysical4" />
+        <activity android:name=".UploadPhysical3" />
+        <activity android:name=".UploadPhysical2" />
+        <activity android:name=".UploadPhysical1" />
+        <activity android:name=".Teacher6" />
+        <activity android:name=".Student6" />
+        <activity android:name=".Teacher5" />
+        <activity android:name=".Student5" />
+        <activity android:name=".Student4" />
+        <activity android:name=".Teacher4" />
+        <activity android:name=".Teacher3" />
+        <activity android:name=".Student3" />
+        <activity android:name=".Teacher2" />
+        <activity android:name=".Student2" />
+        <activity android:name=".Teacher1" />
+        <activity android:name=".Student1" />
+        <activity android:name=".cdc6" />
+        <activity android:name=".cdc5" />
+        <activity android:name=".cdc4" />
+        <activity android:name=".cdc3" />
+        <activity android:name=".cdc2" />
+        <activity android:name=".cdc1" />
+        <activity android:name=".AgeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
